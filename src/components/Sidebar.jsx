@@ -26,6 +26,12 @@ function Sidebar() {
             Donations
           </Link>
         </li>
+        
+        <li className="nav-item">
+          <Link className="nav-link text-white" to="/donation-search">
+            Donation Search
+          </Link>
+        </li>
 
         <li className="nav-item">
           <Link className="nav-link text-white" to="/reports">
